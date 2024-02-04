@@ -83,7 +83,7 @@ wirken und ein horizontaler Schub des Heckrotors wirkt, kommt es zue einer leich
 
 = Hubschrauber im Vorwärtsflug 
 
-Den Übergang vom Schwebeflug in den Vorwärtsflug bezeichnet man Trasition. Dieser ist ein komplexer mechanischer und aerodynamischer Vorgang.
+Den Übergang vom Schwebeflug in den Vorwärtsflug bezeichnet man Transition. Dieser ist ein komplexer mechanischer und aerodynamischer Vorgang.
 Um den Hubschrauber der bereits im Schwebeflug sich befindet muss die Rotorscheibe nach vorne geneigt werden. Durch die Neigung nach vorne beschleunigt die Luft nach Hinten und es entsteht ebenfalls ein geringerer Auftrieb dadurch muss durch den Pilot in der Startphase etwas Leistung die Leistung erhöht werden, um das richtige Verhältnis zwischen Auftrieb und Gewicht zu erreichen.@hubschrauberflug
 #table(
     columns: (1fr,1fr),
